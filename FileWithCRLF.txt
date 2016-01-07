@@ -1,4 +1,4 @@
-Test
+SmallUpdateTest
 file
 with
 windows
