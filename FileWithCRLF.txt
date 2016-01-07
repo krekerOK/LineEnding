@@ -1,0 +1,6 @@
+Test
+file
+with
+windows
+line
+endings
